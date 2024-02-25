@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpacesniApplication {
+public class SpacesNIApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpacesniApplication.class, args);
+		SpringApplication.run(SpacesNIApplication.class, args);
 	}
 
 }
